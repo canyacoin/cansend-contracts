@@ -1,3 +1,3 @@
-# CanYa Contracts
+# CanSend Contracts
 
-Smart Contracts associated with CanYaCoin and token management
+Smart Contracts associated with CanSend
